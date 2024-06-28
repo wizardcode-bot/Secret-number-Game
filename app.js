@@ -68,7 +68,7 @@ function condicionesIniciales() {
     numeroSecreto = generarNumeroSecreto();
     intentos = 1;
     numeroMaximoIntentos = 15;
-    console.log(numeroSecreto);
+    //console.log(numeroSecreto);
 }
 
 function reiniciarJuego() {
