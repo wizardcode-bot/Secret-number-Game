@@ -33,4 +33,4 @@ Para ejecutar el proyecto abre el archivo `index.html` puedes realizar los cambi
 
 ## :mag_right: Visualización online
 Puedes visualizar el proyecto de manera online a través del siguiente enlace: 
-[Encriptador de texto](https://secret-number-game-xi.vercel.app/) 
+[Juego de número secreto](https://secret-number-game-xi.vercel.app/) 
